@@ -43,14 +43,6 @@ export default function App() {
         </div>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">CHY1005</h>
-        <h className="font-bold text-xl text-gray-600">Behavioral Science</h>
-        <div className="flex-row">
-        <a href=".." className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
-        </>
-        <>
         <h className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</h>
         <h className="font-bold text-xl text-gray-600">Differential and Difference Equations</h>
         <div className="flex-row">
