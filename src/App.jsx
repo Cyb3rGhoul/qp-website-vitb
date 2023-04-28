@@ -22,8 +22,8 @@ export default function App() {
         <h className="mt-4 font-bold text-2xl sm:text-3xl">CSA2001</h>
         <h className="font-bold text-xl text-gray-600">Fundamentals of AI and ML</h>
         <div className="flex-row">
-        <a href="https://mega.nz/folder/ltNnTAbI#k-ueAvwcPqUXc3n_PGmMWA" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href="https://mega.nz/folder/ltNnTAbI#k-ueAvwcPqUXc3n_PGmMWA" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
+        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
         </div>
         </>
         <>
