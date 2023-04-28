@@ -52,7 +52,7 @@ export default function App() {
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
 <span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://someone.com" className="text-white font-semibold">someone</a>! Powered by <b>Vercel</b></span>
-<p className="mt-2 text-white items-center text-center text-sm">© by someone</p>
+<p className="mt-2 text-white items-center text-center text-sm">© 2023 someone</p>
 </div>
 </div>
     </>
