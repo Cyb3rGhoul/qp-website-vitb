@@ -62,8 +62,7 @@ export default function App() {
       <div className="flex flex-col items-center sm:flex-row bg-red-500 mt-10 sm:justify-around">
   <div className="mt-10 mb-10">
     <p className="text-lg text-white underline font-bold">Important Links</p>
-<p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Submit Paper</a></p>
-<p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Report Issue</a></p>
+<p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Contact Us</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
 <span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Aditya</a> and <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Abhishek</a>!</span>
