@@ -42,6 +42,14 @@ export default function App() {
         <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
         </div>
         </>
+        <>
+        <h className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</h>
+        <h className="font-bold text-xl text-gray-600">Differential and Difference Equations</h>
+        <div className="flex-row">
+        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
+        </div>
+        </>
       </div>
       <div className="flex flex-col items-center sm:flex-row bg-red-500 mt-10 sm:justify-around">
   <div className="mt-10 mb-10">
