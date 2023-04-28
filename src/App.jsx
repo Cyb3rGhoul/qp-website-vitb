@@ -7,7 +7,7 @@ export default function App() {
       <span className="text-center font-bold text-5xl text-red-500">Question Paper's</span>
       <span className="mt-10 text-xs text-gray-500">⚠️Note: You can submit question paper by using below link!</span>
       <p className="text-xs text-gray-500">🔍 Press <span className="font-bold text-black">(Ctrl + F)</span> and enter the subject code you looking.</p>
-      <button className="mt-2 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.google.com")}>→ Submit Paper</button>
+      <button className="mt-2 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.gle/ckkPitjtGrA5yXrp7")}>→ Submit Paper</button>
     </div>
       <div className="mt-20 flex flex-col items-center">
         <>
@@ -22,8 +22,16 @@ export default function App() {
         <h className="mt-4 font-bold text-2xl sm:text-3xl">CSA2001</h>
         <h className="font-bold text-xl text-gray-600">Fundamentals of AI and ML</h>
         <div className="flex-row">
-        <a href="https://mega.nz/folder/ltNnTAbI#k-ueAvwcPqUXc3n_PGmMWA" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href="https://mega.nz/folder/ltNnTAbI#k-ueAvwcPqUXc3n_PGmMWA" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
+        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
+        </div>
+        </>
+        <>
+        <h className="mt-4 font-bold text-2xl sm:text-3xl">CSE1021</h>
+        <h className="font-bold text-xl text-gray-600">Introduction to Problem Solving Python</h>
+        <div className="flex-row">
+        <a href="https://drive.google.com/drive/folders/1YwF9gxz6Wq1t2B14_jLM0FtvPlqvA1OzNMPAqcap5x1P8aD0tPV2AB_6trAQpoC4JdV5B0Et?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
         </div>
         </>
         <>
@@ -42,6 +50,14 @@ export default function App() {
         <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
         </div>
         </>
+        <>
+        <h className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</h>
+        <h className="font-bold text-xl text-gray-600">Differential and Difference Equations</h>
+        <div className="flex-row">
+        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
+        </div>
+        </>
       </div>
       <div className="flex flex-col items-center sm:flex-row bg-red-500 mt-10 sm:justify-around">
   <div className="mt-10 mb-10">
@@ -50,7 +66,11 @@ export default function App() {
 <p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Report Issue</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
+<<<<<<< HEAD
 <span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Aditya</a> and <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Abhishek</a>!</span>
+=======
+<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://github.com/aditya9277" className="text-white font-semibold">Aditya</a> and <a href="https://github.com/abkux" className="text-white font-semibold">Abhishek</a>! Powered by <b>Vercel</b></span>
+>>>>>>> b11d8f273f71169a8d99bc5caed7662f633226dd
 
 </div>
 </div>
