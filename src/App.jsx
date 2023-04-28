@@ -50,7 +50,7 @@ export default function App() {
 <p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Report Issue</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
-<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Abhishek, Aditya</a>! Powered by <b>Vercel</b></span>
+<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Aditya</a> and <a href="https://papers-vitb.vercel.app" className="text-white font-semibold">Abhishek</a>! Powered by <b>Vercel</b></span>
 
 </div>
 </div>
