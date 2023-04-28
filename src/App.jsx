@@ -7,10 +7,9 @@ export default function App() {
       <span className="text-center font-bold text-5xl text-red-500">Question Papers</span>
       <span className="mt-10 text-xs text-gray-500">⚠️Note: You can submit question paper by using below link!</span>
       <p className="text-xs text-gray-500">🔍 Press <span className="font-bold text-black">(Ctrl + F)</span> and enter the subject code you looking.</p>
-      <div className="flex-row text-center">
+      
       <button className="mt-2 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.gle/ckkPitjtGrA5yXrp7")}>Submit Paper (Mid Term)</button>
-      <button className="mt-2 ml-0 sm:ml-4 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.gle/quydRSdrdnKSW5YS6")}>Submit Paper (Term End)</button>
-        </div>
+      <button className="mt-2 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.gle/quydRSdrdnKSW5YS6")}>Submit Paper (Term End)</button>
         </div>
       <div className="mt-20 flex flex-col items-center">
         <>
