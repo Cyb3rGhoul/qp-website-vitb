@@ -51,7 +51,7 @@ export default function App() {
 <p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Contact Us</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
-<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://" className="text-white font-semibold">Aditya</a>! Powered by <b>Vercel</b></span>
+<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://someone.com" className="text-white font-semibold">someone</a>! Powered by <b>Vercel</b></span>
 <p className="mt-2 text-white items-center text-center text-sm">© by someone</p>
 </div>
 </div>
