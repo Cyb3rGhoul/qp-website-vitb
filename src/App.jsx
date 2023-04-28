@@ -14,7 +14,7 @@ export default function App() {
         <h className="font-bold text-2xl sm:text-3xl">CHY1006</h>
         <h className="font-bold text-xl text-gray-600">Environmental Sustainability</h>
         <div className="flex-row">
-        <a href=".." className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
+        <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
         <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
         </div>
         </>
