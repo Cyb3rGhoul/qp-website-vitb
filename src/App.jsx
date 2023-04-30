@@ -12,6 +12,7 @@ export default function App() {
         </div>
       <div className="mt-20 flex flex-col items-center">
         <>
+        <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-2xl sm:text-3xl">CHY1006</a>
         <h className="font-bold text-2xl sm:text-3xl">CHY1006</h>
         <h className="font-bold text-xl text-gray-600">Environmental Sustainability</h>
         <div className="flex-row">
