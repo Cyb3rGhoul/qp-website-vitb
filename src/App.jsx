@@ -13,28 +13,15 @@ export default function App() {
       <div className="mt-20 flex flex-col items-center">
         <>
         <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-2xl sm:text-3xl">CHY1006</a>
-        <h className="font-bold text-2xl sm:text-3xl">CHY1006</h>
         <h className="font-bold text-xl text-gray-600">Environmental Sustainability</h>
-        <div className="flex-row">
-        <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">CSA2001</h>
+        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">CSA2001</a>
         <h className="font-bold text-xl text-gray-600">Fundamentals of AI and ML</h>
-        <div className="flex-row">
-        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">CSE1021</h>
+        <a href="https://drive.google.com/drive/folders/1YwF9gxz6Wq1t2B14_jLM0FtvPlqvA1OzNMPAqcap5x1P8aD0tPV2AB_6trAQpoC4JdV5B0Et?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">CSE1021</a>
         <h className="font-bold text-xl text-gray-600">Introduction to Problem Solving Python</h>
-        <div className="flex-row">
-        <a href="https://drive.google.com/drive/folders/1YwF9gxz6Wq1t2B14_jLM0FtvPlqvA1OzNMPAqcap5x1P8aD0tPV2AB_6trAQpoC4JdV5B0Et?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
         </>
         <>
         <h className="mt-4 font-bold text-2xl sm:text-3xl">HUM2001</h>
@@ -53,12 +40,8 @@ export default function App() {
         </div>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</h>
-        <h className="font-bold text-xl text-gray-600">Differential and Difference Equation</h>
-        <div className="flex-row">
-        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href="papers-vitb.vercel.app" className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
+        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</a>
+        <h className="font-bold text-xl text-gray-600">Differential and Difference Equations</h>
         </>
       </div>
       <div className="flex flex-col items-center sm:flex-row bg-red-500 mt-10 sm:justify-around">
