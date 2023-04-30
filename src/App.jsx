@@ -24,20 +24,12 @@ export default function App() {
         <h className="font-bold text-xl text-gray-600">Introduction to Problem Solving Python</h>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">HUM2001</h>
+        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl">HUM2001</a>
         <h className="font-bold text-xl text-gray-600">Behavioral Science</h>
-        <div className="flex-row">
-        <a href=".." className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
         </>
         <>
-        <h className="mt-4 font-bold text-2xl sm:text-3xl">MGT1002</h>
+        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl">MGT1002</a>
         <h className="font-bold text-xl text-gray-600">Principles of Management and Organisational Behaviour</h>
-        <div className="flex-row">
-        <a href=".." className="p-1 mr-4 text-xs text-red-600 hover:bg-red-100 rounded-lg">Mid Term</a>
-        <a href=".." className="p-1 text-xs text-red-600 hover:bg-red-100 rounded-lg">End Term</a>
-        </div>
         </>
         <>
         <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</a>
