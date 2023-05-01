@@ -10,12 +10,12 @@ export default function App() {
       
       <button className="mt-2 text-base bg-red-500 hover:bg-red-400 text-white p-2 rounded-lg drop-shadow-lg" onClick={() => (window.location.href = "https://forms.gle/ckkPitjtGrA5yXrp7")}>Submit Paper</button>
         </div>
-        <div className="mt-10 flex justify-around">
+        {/* <div className="mt-10 flex justify-around">
         <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-red-500 text-2xl sm:text-3xl">CHY1006</a>
         <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-blue-500 text-2xl sm:text-3xl">CHY1006</a>
         <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-yellow-500 text-2xl sm:text-3xl">CHY1006</a>
         
-        </div>
+        </div> */}
       <div className="mt-20 flex flex-col items-center">
         <>
         <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-red-500 text-2xl sm:text-3xl">CHY1006</a>
@@ -48,7 +48,7 @@ export default function App() {
 <p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Contact Us</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
-<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://github.com/aditya9277" className="text-white font-semibold">Aditya</a> and <a href="https://github.com/abkux" className="text-white font-semibold">Abhishek</a>!</span>
+<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://github.com/aditya9277" className="text-white font-semibold">Aditya</a>!</span>
 </div>
 </div>
     </>
