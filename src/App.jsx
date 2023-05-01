@@ -48,7 +48,7 @@ export default function App() {
 <p className="text-white text-center text-sm sm:text-base"><a href=".." className="text-white hover:font-semibold">Contact Us</a></p>
 </div>
  <div className="mt-2 sm:mt-10 mb-10">
-<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://github.com/aditya9277" className="text-white font-semibold">Aditya</a>!</span>
+<span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by <a href="https://github.com/aditya9277" className="text-white font-semibold">Aditya</a> and <a href="https://github.com/abkux" className="text-white font-semibold">Abhishek</a>!</span>
 </div>
 </div>
     </>
