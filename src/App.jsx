@@ -12,27 +12,27 @@ export default function App() {
         </div>
       <div className="mt-20 flex flex-col items-center">
         <>
-        <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-2xl sm:text-3xl">CHY1006</a>
+        <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-red-500 text-2xl sm:text-3xl">CHY1006</a>
         <h className="font-bold text-xl text-gray-600">Environmental Sustainability</h>
         </>
         <>
-        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">CSA2001</a>
+        <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" className="mt-4 text-red-500 font-bold text-2xl sm:text-3xl">CSA2001</a>
         <h className="font-bold text-xl text-gray-600">Fundamentals of AI and ML</h>
         </>
         <>
-        <a href="https://drive.google.com/drive/folders/1YwF9gxz6Wq1t2B14_jLM0FtvPlqvA1OzNMPAqcap5x1P8aD0tPV2AB_6trAQpoC4JdV5B0Et?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">CSE1021</a>
+        <a href="https://drive.google.com/drive/folders/1YwF9gxz6Wq1t2B14_jLM0FtvPlqvA1OzNMPAqcap5x1P8aD0tPV2AB_6trAQpoC4JdV5B0Et?usp=share_link" className="mt-4 text-red-500 font-bold text-2xl sm:text-3xl">CSE1021</a>
         <h className="font-bold text-xl text-gray-600">Introduction to Problem Solving Python</h>
         </>
         <>
-        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl">HUM2001</a>
+        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl text-red-500">HUM2001</a>
         <h className="font-bold text-xl text-gray-600">Behavioral Science</h>
         </>
         <>
-        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl">MGT1002</a>
+        <a href=".." className="mt-4 font-bold text-2xl sm:text-3xl text-red-500">MGT1002</a>
         <h className="font-bold text-xl text-gray-600">Principles of Management and Organisational Behaviour</h>
         </>
         <>
-        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="mt-4 font-bold text-2xl sm:text-3xl">MAT2001</a>
+        <a href="https://drive.google.com/drive/folders/1jgnm1fZ37sHlJVajc-Rx0mWCGWShuipljeUqfk8vEwbcGl_Tq2q8tr77vfgzRdIZD58stAD1?usp=share_link" className="mt-4 text-red-500 font-bold text-2xl sm:text-3xl">MAT2001</a>
         <h className="font-bold text-xl text-gray-600">Differential and Difference Equations</h>
         </>
       </div>
