@@ -41,7 +41,7 @@ export default function App() {
         </div>
         <div className="mt-10 flex justify-around">
         <a href="https://drive.google.com/drive/folders/1oahyPYhgi1xt3XBvXAFSmWMsf66fmcb-fqlWnQVWpzXYbpb9UTOxcKkzqCbzuqiPduxyXTLH?usp=share_link" className="font-bold text-purple-500 text-2xl sm:text-3xl">CHY1005</a>
-        <a href="https://drive.google.com/drive/folders/12VJY3HExx2bqxuPY2YJJKT4JgUMDJNcDwNix1r4uhozcLzBf8C_jslmCuEafO82_8MyCFJOM?usp=share_link" className="font-bold text-purple-500 text-2xl sm:text-3xl">CHY1007</a>
+        <a href="https://drive.google.com/drive/folders/12VJY3HExx2bqxuPY2YJJKT4JgUMDJNcDwNix1r4uhozcLzBf8C_jslmCuEafO82_8MyCFJOM?usp=share_link" className="font-bold text-blue-500 text-2xl sm:text-3xl">CHY1007</a>
         
         {/* <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-orange-500 text-2xl sm:text-3xl">MAT2001</a> */}
         {/* <a href="https://drive.google.com/drive/folders/1SIipwMXcr69hmmBAtBHnBw-2p5zRyeDUdVLkg-M-MSo6mXEfD8JSCiOJrqlnXoQc5TAEtc40?usp=share_link" className="font-bold text-green-500 text-2xl sm:text-3xl">MAT2003</a> */}
