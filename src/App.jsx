@@ -169,7 +169,7 @@ export default function App() {
       <div className="flex flex-col items-center sm:flex-row bg-[#0c4a6e] mt-10 sm:justify-around">
         <div className="mt-10 mb-10">
           <p className="text-lg text-white underline font-bold">Important Links</p>
-          <p className="text-white text-center text-sm sm:text-base"><a href="https://www.linkedin.com/in/harsh-shukla-1inkdein/" className="text-white no-underline hover:font-semibold">Contact Us</a></p>
+          <p className="text-white text-center text-sm sm:text-base"><a href="mailto:papersvitb@incel.email" className="text-white no-underline hover:font-semibold">Contact Us</a></p>
         </div>
         <div className="mt-2 sm:mt-10 mb-10">
           <span className="rounded-lg bg-white p-2 bg-opacity-40 items-center">Made by Aditya, Abhishek & Harsh!</span>
