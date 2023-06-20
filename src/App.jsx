@@ -26,7 +26,7 @@ export default function App() {
           <div class="card-body">
             <h5 class="card-title text-white">CSA2001</h5>
             <p class="card-text text-white">Fundatmentals of AI & ML</p>
-            <button type="button" class="btn btn-info w-full"><a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" class="no-underline text-white">Paper Link</a></button>
+            <a href="https://drive.google.com/drive/folders/1KVqDch2p1HWVAtuDN1X4D6kK8e4HH7v6zGHfTj2ogKeo9-OWFAdU9wK7pfRiyQzHpNxRMD0P?usp=share_link" class="no-underline text-white"><button type="button" class="btn btn-info w-full">Paper Link</button></a>
           </div>
         </div>
         <div class="card w-72 border-info border-3 mb-3 bg-dark" data-aos="fade-right">
